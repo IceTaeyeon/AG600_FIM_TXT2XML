@@ -1,0 +1,2 @@
+# AG600_FIM_TXT2XML
+针对AG600故障隔离程序的TXT转换XML脚本文件
