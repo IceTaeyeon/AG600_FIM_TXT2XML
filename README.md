@@ -44,12 +44,12 @@
 ## 🔍 XML文件编辑操作
 - 使用Editor软件打开故障隔离程序后，单击左上角“视图” → “XML源码”
 - 在源码中找到 <content> 部分 （基本上都在58-59行）
- ![image](https://github.com/user-attachments/assets/80ba88c6-00cd-4199-a632-57efa274279b)
+![image](https://github.com/user-attachments/assets/fd8107b0-667d-438c-89d5-effdd6f206e2)
 - 打开上一步生成的XML文件（推荐使用Visual Studio Code，使用Edge或Chrome浏览器进行预览与复制会无法保留xml的换行格式）
 - 选中从第3行 <content> 开始后的所有内容，复制并粘贴到Editor的源码部分（替换掉原本的 <content> ）
- ![image](https://github.com/user-attachments/assets/bab81c00-c41f-4eea-9e9c-db7108fe6a26)
+![image](https://github.com/user-attachments/assets/3c328d6c-9981-4396-a9a7-1df1155e3591)
 - 复制完毕后，单击左上角“视图” → “XML源码”，在弹出的窗口选择“是”，即可回到UI界面，查看故障隔离程序编辑结果
- ![image](https://github.com/user-attachments/assets/eeeab2a3-f79f-46ae-bc57-e7cc0d28555c)
+![image](https://github.com/user-attachments/assets/eeeab2a3-f79f-46ae-bc57-e7cc0d28555c)
 
 ## ⚠️ 已知问题
 - 无法识别“初步评估”部分中 DMC 编号前后带括号的格式，正在修复中，初步评估应该不涉及DMRL引用。
