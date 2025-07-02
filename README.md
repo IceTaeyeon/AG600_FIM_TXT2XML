@@ -53,5 +53,5 @@
 ![image](https://github.com/user-attachments/assets/eeeab2a3-f79f-46ae-bc57-e7cc0d28555c)
 
 ## ⚠️ 已知问题
-- 无法识别“初步评估”部分中 DMC 编号前后带括号的格式，正在修复中，初步评估应该不涉及DMRL引用。
+- （250702已修复）无法识别“初步评估”部分中 DMC 编号前后带括号的格式。
 
